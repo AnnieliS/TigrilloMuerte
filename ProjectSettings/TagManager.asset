@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - item
+  - temple
+  - table
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3022475
+    locked: 0
+  - name: GroundTexture
+    uniqueID: 2877885529
+    locked: 0
+  - name: Background
+    uniqueID: 1288040395
+    locked: 0
+  - name: Player
+    uniqueID: 1582263157
+    locked: 0
+  - name: Foreground
+    uniqueID: 4213066235
+    locked: 0
+  - name: Map
+    uniqueID: 1946196473
+    locked: 0

@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7506053110788945809
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4020089617124065935, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_Name
+      value: SP_FIELD_TREE (2) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6580507576430082009, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_Color.b
+      value: 0.68467426
+      objectReference: {fileID: 0}
+    - target: {fileID: 6580507576430082009, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8238875
+      objectReference: {fileID: 0}
+    - target: {fileID: 6580507576430082009, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9245283
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -139.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -64
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8212674975814858436, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+--- !u!1 &6908770026159928606 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4020089617124065935, guid: b6db6eb8ad15cc7498f599958b2a2b18, type: 3}
+  m_PrefabInstance: {fileID: 7506053110788945809}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &7921501321312487539
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6908770026159928606}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.95697784, y: -0.36071396}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.541457, y: 0.03055595}
+    oldSize: {x: 93.1, y: 84.45}
+    newSize: {x: 93.1, y: 84.45}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 6.3049164, y: 4.439453}
+  m_EdgeRadius: 0

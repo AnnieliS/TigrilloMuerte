@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 134e07617f5a4cf448a1897193296189, type: 3}
+  m_Name: Inven_Beads
+  m_EditorClassIdentifier: 
+  id: Item_Beads
+  displayName: Holy Beads
+  icon: {fileID: 614073580, guid: 1077f1b39a407bb439b88ebdda23f65b, type: 3}
+  prefab: {fileID: 0}

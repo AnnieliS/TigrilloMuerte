@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6711886392448400305
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4472035387275260515, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_Name
+      value: Birds2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260516, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260517, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: MaxDistance
+      value: 32.23722
+      objectReference: {fileID: 0}
+    - target: {fileID: 4472035387275260517, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 1375600f30be3c441bfcbe8a761e4f00, type: 3}
+    - target: {fileID: 8914189180407659789, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: maxInterval
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 8914189180407659789, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}
+      propertyPath: soundLength
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5b6a510051dabc449bf797513ef7dc0a, type: 3}

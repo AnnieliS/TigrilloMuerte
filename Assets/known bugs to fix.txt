@@ -1,0 +1,7 @@
+** opening the pause menu while dialogue on gets dialogue hella stuck -> for now, can exit dialogue midway
+** running animation continues while dialogue if was in the middle of walking
+** picks up knife and cloth together (or every items that are hit by raycasting) -> fixed!
+** Rosa on map is blacked out -> kinda cool
+**fix the whole way items are being picked up -> make into single function -> kinda fixed?
+**no cutscenes
+**need more ui help (quest log etc)

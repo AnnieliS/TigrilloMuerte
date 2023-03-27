@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 38fecb5fe2805d84ab3a791178621f8a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_VILLAGE_EQUI_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2230
+        width: 162
+        height: 405
+      alignment: 9
+      pivot: {x: 0.61695766, y: 0.09271255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8f41afba30ae40b2403dfa43251f2
+      internalID: -2009698760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_EQUI_2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2229
+        width: 153
+        height: 436
+      alignment: 9
+      pivot: {x: 0.5423624, y: 0.098624974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dc2c55282cbf243bff65fcc785acb1
+      internalID: -604654889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_WELL
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 2086
+        width: 447
+        height: 390
+      alignment: 9
+      pivot: {x: 0.47918716, y: 0.07459435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8cd963669db4b4789dfcd7bbf45db4
+      internalID: -2024725346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_POT_1
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 2085
+        width: 234
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5046961, y: 0.12567902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7948952eaf8be94298eb12c9fc4e2c8
+      internalID: 348008863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_POT_2
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 2094
+        width: 96
+        height: 124
+      alignment: 9
+      pivot: {x: 0.52861786, y: 0.1100582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4df7c5b3b01734984cb3fb8817e41a
+      internalID: -1870803910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_AGR_1
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1816
+        width: 186
+        height: 92
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa8783ffefe4645a2a956a160cc8b2
+      internalID: -1103858256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_AGR_2
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1827
+        width: 132
+        height: 82
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d2bce8a8faeb14a87345fa75e01ba4
+      internalID: 1895794941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_AGR_3
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1814
+        width: 296
+        height: 105
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17884a6f3440364e8ec3e9fefe6a93f
+      internalID: -570870767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_FENCE
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1435
+        width: 352
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f74cd19ba9dab4b86080e19758e68b
+      internalID: -1802807088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_CHILLI
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1430
+        width: 168
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305a9e25396d3ae4f9100cb9d5d6d60f
+      internalID: -2128747486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_COTTON
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1439
+        width: 187
+        height: 304
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879c8dbe180c8c742b27262ad291396e
+      internalID: -555016154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_CORN
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 1439
+        width: 83
+        height: 365
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31503d476a69754eaf8fa841f7f0411
+      internalID: 2091482259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_HUT
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1182
+        width: 784
+        height: 907
+      alignment: 9
+      pivot: {x: 0.52702796, y: 0.039756294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6e28e04065ab4409c51a80b648f8f2
+      internalID: 2057808411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_BORDER
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 148
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04266f1be364093448307b2ff94c8bb1
+      internalID: -674836507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_S_FENCE_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 696
+        width: 731
+        height: 276
+      alignment: 9
+      pivot: {x: 0.50613034, y: 0.122506626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9ac9323e9f6674cb46636c37c380f9
+      internalID: -1086054549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_S_FENCE_2
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 700
+        width: 351
+        height: 240
+      alignment: 9
+      pivot: {x: 0.49534568, y: 0.10519104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f387e859cae1147b1b7acf8242db74
+      internalID: 2077579023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_VILLAGE_S_FENCE_3
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 708
+        width: 451
+        height: 287
+      alignment: 9
+      pivot: {x: 0.5033075, y: 0.099828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f369773a6143e488b408f725216209
+      internalID: -1969306862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SP_VILLAGE_COTTON: -555016154
+      SP_VILLAGE_EQUI_2: -604654889
+      SP_VILLAGE_POT_2: -1870803910
+      SP_VILLAGE_AGR_2: 1895794941
+      SP_VILLAGE_EQUI_1: -2009698760
+      SP_VILLAGE_FENCE: -1802807088
+      SP_VILLAGE_AGR_3: -570870767
+      SP_VILLAGE_CHILLI: -2128747486
+      SP_VILLAGE_S_FENCE_1: -1086054549
+      SP_VILLAGE_S_FENCE_3: -1969306862
+      SP_VILLAGE_WELL: -2024725346
+      SP_VILLAGE_AGR_1: -1103858256
+      SP_VILLAGE_BORDER: -674836507
+      SP_VILLAGE_POT_1: 348008863
+      SP_VILLAGE_S_FENCE_2: 2077579023
+      SP_VILLAGE_HUT: 2057808411
+      SP_VILLAGE_CORN: 2091482259
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

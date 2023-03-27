@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 54231a461ee0dda49aa05b8c587b00fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SP_FIELD_TREE
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1064
+        width: 1862
+        height: 1689
+      alignment: 9
+      pivot: {x: 0.541457, y: 0.03055595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf2c6e61c418d4fa9c8d1950bca3f4
+      internalID: 1767101619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_BUSH_FULL
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 811
+        width: 549
+        height: 372
+      alignment: 9
+      pivot: {x: 0.39915612, y: 0.18056858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d191e0e5aa136479cb38bb709d4a4b
+      internalID: 1460553689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_BUSH_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 566
+        width: 133
+        height: 138
+      alignment: 9
+      pivot: {x: 0.29794747, y: 0.16617352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60e3cddae6cea4ab86976efd4968e2
+      internalID: -1664991580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_BUSH_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 412
+        width: 100
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6430261, y: 0.16975874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6be4c0f5db954849b5af9fc8e682534
+      internalID: 1608082222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_BUSH_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 245
+        width: 107
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5123428, y: 0.16040954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec9b5a7e9423240a2f9cdbe038368c
+      internalID: 1886304658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_STONE_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 496
+        width: 60
+        height: 47
+      alignment: 9
+      pivot: {x: 0.6117427, y: 0.3288204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7491cb98bef7a44907c4f9b62043e1
+      internalID: -1374209647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_STONE_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 421
+        width: 129
+        height: 55
+      alignment: 9
+      pivot: {x: 0.48707616, y: 0.28781682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ad085046d0bb48a91a021ae668342
+      internalID: 1548089725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_STONE_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 170
+        width: 334
+        height: 211
+      alignment: 9
+      pivot: {x: 0.48496085, y: 0.20242533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a2314a11faf9e4d931a50ed04154de
+      internalID: -567189293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_BORDER
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 804
+        width: 257
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd8c9c8d8859df41875fec1f1de477f
+      internalID: 822732814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_COLOR
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 868
+        width: 110
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f9d4ddf5834144a81f3e3d77af2d6
+      internalID: -1305728796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_10
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 21
+        width: 79
+        height: 534
+      alignment: 9
+      pivot: {x: 0.5242343, y: 0.15742736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a205fac38d803641884f1e03ff9cdbe
+      internalID: 1971414018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_FLOWERY_1
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 319
+        width: 66
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17102325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b675b8768904e84f8b8c028e921fa63
+      internalID: 1076761507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_FLOWERY_2
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 314
+        width: 70
+        height: 179
+      alignment: 9
+      pivot: {x: 0.4769165, y: 0.21113203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c37365aef2406489f851032512bd58
+      internalID: -842552263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_FLOWERP_1
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 166
+        width: 83
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5165207, y: 0.2109033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ce92c9d978bcf4e8f701d445cf4060
+      internalID: -1470537689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_FLOWERP_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 165
+        width: 75
+        height: 79
+      alignment: 9
+      pivot: {x: 0.430576, y: 0.23965763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44f56b5a1987d04d9c7402ccf71ab0b
+      internalID: -210815456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_FLOWERW_1
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 22
+        width: 71
+        height: 109
+      alignment: 9
+      pivot: {x: 0.44597787, y: 0.23021379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5f7343063af14991e6748afa6b201
+      internalID: 1926451981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_FLOWERW_2
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 31
+        width: 72
+        height: 86
+      alignment: 9
+      pivot: {x: 0.44672817, y: 0.23982953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb01be580ae92ff45a0424a0a7d5a2f1
+      internalID: 1725076501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_WEED_1
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 90
+        width: 115
+        height: 180
+      alignment: 9
+      pivot: {x: 0.48626763, y: 0.14908154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f5e205b9501b44950773fa5148b90
+      internalID: 2088544554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_WEED_2
+      rect:
+        serializedVersion: 2
+        x: 1573
+        y: 88
+        width: 139
+        height: 174
+      alignment: 9
+      pivot: {x: 0.47727737, y: 0.1732831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabbd740d5f00b741ae09b77d3ec0a47
+      internalID: -1445718426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_WEED_3
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 77
+        width: 101
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5656061, y: 0.1523257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb434c19c87edb644adeb9b384b2fc81
+      internalID: -219631969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_WEED_4
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 80
+        width: 42
+        height: 134
+      alignment: 9
+      pivot: {x: 0.552592, y: 0.23626818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42d36d0bc0dc6543819c0a6b4274362
+      internalID: 592772889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_GRASS1
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1280
+        width: 240
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b7ed073be9db48b1460fb122a7a7d
+      internalID: -859466126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SP_FIELD_GRASS2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1203
+        width: 186
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d56db87b5a5adb4797306e457ebd105
+      internalID: 1830585370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SP_FIELD_BUSH_FULL: 1460553689
+      SP_FIELD_STONE_1: -1374209647
+      SP_FIELD_STONE_3: -567189293
+      SP_FIELD_FLOWERW_2: 1725076501
+      SP_FIELD_FLOWERY_1: 1076761507
+      SP_FIELD_BUSH_3: 1886304658
+      SP_FIELD_WEED_2: -1445718426
+      SP_FIELD_FLOWERY_2: -842552263
+      SP_FIELD_WEED_4: 592772889
+      SP_FIELD_GRASS1: -859466126
+      SP_FIELD_BORDER: -1305728796
+      SP_FIELD_FLOWERP_2: -210815456
+      SP_FIELD_WEED_1: 2088544554
+      SP_FIELD_WEED_3: -219631969
+      SP_FIELD_GRASS2: 1830585370
+      SP_FIELD_BUSH_1: -1664991580
+      SP_FIELD_10: 541462708
+      SP_FIELD_STONE_2: 1548089725
+      SP_FIELD_COLOR: 1460553689
+      SP_FIELD_TREE: 1767101619
+      SP_FIELD_BUSH_2: 1608082222
+      SP_FIELD_FLOWERW_1: 1926451981
+      SP_FIELD_FLOWERP_1: -1470537689
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
