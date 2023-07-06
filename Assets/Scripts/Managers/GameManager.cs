@@ -33,6 +33,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] GameObject templeCanvas;
     [SerializeField] GameObject finalCanvas;
     [SerializeField] GameObject quitCanvas;
+    [SerializeField] GameObject openCutscene;
     #endregion
 
     #region World dialogue
@@ -72,7 +73,7 @@ public class GameManager : MonoBehaviour
         CursorInit();
         templeCanvas.SetActive(false);
         finalCanvas.SetActive(false);
-        pauseCanvas.SetActive(true);
+        pauseCanvas.SetActive(false);
     }
 
     public static GameManager GetInstance()
@@ -82,9 +83,19 @@ public class GameManager : MonoBehaviour
 
     #endregion
 
+    #region cutscenes
+
+    public void EndOpenCutscene(Component sender, object data) { 
+        openCutscene.SetActive(false);
+        pauseCanvas.SetActive(true);
+            }
+
+    #endregion
+
     #region Cursor Functions
     void CursorInit()
     {
+        Cursor.visible = false;
         float xspot = cursorDef.width / 2;
         float yspot = cursorDef.height / 2;
         hotspot = new Vector2(xspot, yspot);
@@ -136,6 +147,7 @@ public class GameManager : MonoBehaviour
     {
         bool dataState = (bool)data;
         pauseCanvas.SetActive(dataState);
+        Cursor.visible = !dataState;
         if (dataState) Time.timeScale = 0;
         if (!dataState) Time.timeScale = 1;
     }
