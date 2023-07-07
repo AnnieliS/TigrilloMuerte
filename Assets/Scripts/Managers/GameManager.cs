@@ -33,7 +33,14 @@ public class GameManager : MonoBehaviour
     [SerializeField] GameObject templeCanvas;
     [SerializeField] GameObject finalCanvas;
     [SerializeField] GameObject quitCanvas;
+    [SerializeField] GameObject cutsceneCanvas;
+    #endregion
+
+    #region cutscenes
+
     [SerializeField] GameObject openCutscene;
+    [SerializeField] GameObject finishCutscene;
+
     #endregion
 
     #region World dialogue
@@ -74,6 +81,8 @@ public class GameManager : MonoBehaviour
         templeCanvas.SetActive(false);
         finalCanvas.SetActive(false);
         pauseCanvas.SetActive(false);
+        cutsceneCanvas.SetActive(true);
+        openCutscene.SetActive(true);
     }
 
     public static GameManager GetInstance()
@@ -85,10 +94,11 @@ public class GameManager : MonoBehaviour
 
     #region cutscenes
 
-    public void EndOpenCutscene(Component sender, object data) { 
+    public void EndOpenCutscene(Component sender, object data)
+    {
         openCutscene.SetActive(false);
         pauseCanvas.SetActive(true);
-            }
+    }
 
     #endregion
 
@@ -205,8 +215,8 @@ public class GameManager : MonoBehaviour
             Debug.Log(canProceed);
             if (!canProceed) return;
         }
-
-        finalCanvas.SetActive(true);
+        cutsceneCanvas.SetActive(true);
+        finishCutscene.SetActive(true);
 
     }
     #endregion
